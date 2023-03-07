@@ -1,14 +1,14 @@
 <h1>Solid Waste Data Warehouse Design </h1>
 
 <h2>Description</h2>
-Create a Spark Application to perform sentiment analysis on tweets, and populate the sentiment
+Designing a data warehouse for a solid waste management company. Before an organization starts to build a data warehouse, it must identify its analytics requirements. Once a data warehouse is built, it would bedifficult to use it to generate analytics that it was not designed for. Understanding and collecting analytics requirements is an important firststep in the design process of a data warehouse.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Apache Spark</b> 
-- <b>Diskpart</b>
+- <b>PostgreSQL</b> 
+- <b>IBM Cognos Analytics</b>
 
 <h2>Environments Used </h2>
 
